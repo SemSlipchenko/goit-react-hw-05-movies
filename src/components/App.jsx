@@ -1,6 +1,6 @@
 import { Routes, Route, NavLink } from 'react-router-dom';
-import { Home } from 'pages/home';
-import { Movies } from 'pages/movies';
+import Home from 'pages/home';
+import Movies from 'pages/movies';
 
 export const App = () => {
   return (
